@@ -5,7 +5,7 @@
 int main()
 {
 	char option;
-	double balance = 50000.00;
+	double balance = 100000.00;
 
 
 	/* Greeting message */
